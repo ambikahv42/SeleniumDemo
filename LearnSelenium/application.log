@@ -1,0 +1,23 @@
+2021-11-29 14:52:10,331  INFO [main] Log4jDemo:17 - Launch Browser
+2021-11-29 14:52:12,278  INFO [main] Log4jDemo:22 - Opened application
+2021-11-29 15:03:15,911  INFO [main] Log4jDemo:18 - Launch Browser
+2021-11-29 15:03:17,380  INFO [main] Log4jDemo:23 - Opened application
+2021-11-29 15:03:17,389  INFO [main] Log4jDemo:28 - Title value is : Demo Web Shop. Login
+2021-11-29 15:05:49,030  INFO [main] Log4jDemo:18 - Launch Browser
+2021-11-29 15:05:51,307  INFO [main] Log4jDemo:23 - Opened application
+2021-11-29 15:05:51,315  INFO [main] Log4jDemo:29 - Title value is : Demo Web Shop. Login
+2021-11-29 15:06:43,256  INFO [main] Log4jDemo:18 - Launch Browser
+2021-11-29 15:06:44,714  INFO [main] Log4jDemo:23 - Opened application
+2021-11-29 15:06:44,721  INFO [main] Log4jDemo:29 - Title value is : Demo Web Shop. Login
+2021-11-29 15:14:36,636  INFO [main] Log4jDemo:18 - Launch Browser
+2021-11-29 15:14:38,333  INFO [main] Log4jDemo:23 - Opened application
+2021-11-29 15:14:38,342  INFO [main] Log4jDemo:29 - Title value is : Demo Web Shop. Login
+2021-11-29 15:16:55,999  INFO [main] Log4jDemo:18 - Launch Browser
+2021-11-29 15:16:56,631  INFO [main] Log4jDemo:18 - Launch Browser
+2021-11-29 15:16:57,847  INFO [main] Log4jDemo:23 - Opened application
+2021-11-29 15:16:57,855  INFO [main] Log4jDemo:29 - Title value is : Demo Web Shop. Login
+2021-11-29 15:16:58,280  INFO [main] Log4jDemo:23 - Opened application
+2021-11-29 15:16:58,287  INFO [main] Log4jDemo:29 - Title value is : Demo Web Shop. Login
+2021-11-29 15:17:28,239  INFO [main] Log4jDemo:18 - Launch Browser
+2021-11-29 15:17:29,920  INFO [main] Log4jDemo:23 - Opened application
+2021-11-29 15:17:29,927  INFO [main] Log4jDemo:29 - Title value is : Demo Web Shop. Login
